@@ -1,0 +1,7 @@
+# 强制直连域名列表，来自个人收集
+# 部分域名可能和大陆域名列表存在重叠
+
+# ImmortalWrt 软件仓库
+DOMAIN-SUFFIX,immortalwrt.org
+# 本地域名
+DOMAIN-SUFFIX,vsky.top
