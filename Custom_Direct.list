@@ -5,3 +5,4 @@
 DOMAIN-SUFFIX,immortalwrt.org
 # 本地域名
 DOMAIN-SUFFIX,vsky.top
+IP-CIDR,66.63.166.222/32,no-resolve
