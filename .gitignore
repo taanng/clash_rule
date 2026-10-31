@@ -1,3 +1,3 @@
-generated/*.yaml
-generated/*.yml
-generated/*.link
+generated/
+__pycache__/
+provider.local.yaml
