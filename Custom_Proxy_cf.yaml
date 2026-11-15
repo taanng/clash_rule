@@ -2,7 +2,6 @@
 # 部分域名可能和大陆域名列表存在重叠
 
 payload:
-  - '+.xn--ngstr-lra8j.com'
   - '+.reddit.com'
   - '+.socialblade.com'
 
